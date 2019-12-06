@@ -1,0 +1,6 @@
+# convert2coco
+
+A list of repos for converting annotations of ??? datasets into the COCO json format.
+
+- ...
+- ...
