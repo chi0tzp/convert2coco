@@ -1,6 +1,6 @@
 # convert2coco
 
-A list of repos for converting annotations of popular datasets into the COCO json format.
+A list of repos for converting annotations of popular datasets into the COCO json format, as well as for loading them in PyTorch. 
 
 - [x] [AFLW](https://github.com/chi0tzp/AFLW2COCO)
 - [ ] [WIDERFace](https://github.com/chi0tzp/WIDERFace2COCO)
